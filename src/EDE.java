@@ -10,5 +10,6 @@ public class Main {
         System.out.println("Inserte segundo número");
         n2=sc.nextInt();
         System.out.println("Inserte tercer número");
+        System.out.println("El numero mayor");
     }
 }
